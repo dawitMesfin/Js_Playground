@@ -17,4 +17,4 @@ const adderWithOutCurring = (a,b,c) => {
     return a + b + c
 }
 
-// Done curring
+// Done understanding curring
